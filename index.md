@@ -1,3 +1,3 @@
 # Posts
 
-- [Slope Trick](/slope_trick)
+- [Slope Trick](mastericez.github.io/posts/slope_trick)
